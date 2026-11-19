@@ -1,0 +1,9 @@
+{
+  "user": "yamas-sst",
+  "building": "VMS and People tool two-way sync",
+  "next": "Unified read-only data lake feeds",
+  "shipping": "Ops Hub modules for intake, POs and invoicing",
+  "milestones": [
+    { "label": "ATS cutover", "date": "2027-02-01" }
+  ]
+}
