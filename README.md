@@ -12,8 +12,8 @@ $ agent status
 building    VMS and People tool two-way sync
 shipping    Ops Hub modules for intake, POs and invoicing
 next        Unified read-only data lake feeds
-countdown   ATS cutover in 74 days
-refreshed   2026-11-19 17:47 UTC
+countdown   ATS cutover in 73 days
+refreshed   2026-11-20 19:06 UTC
 ```
 <!--NOW:END-->
 
